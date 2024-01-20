@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13546" started-at="2022-06-22T00:13:52 IST" finished-at="2022-06-22T00:14:06 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13546" started-at="2022-06-22T00:13:52 IST" finished-at="2022-06-22T00:14:06 IST">
+      <class name="TestNG.example2_TestNg_TestClass">
+        <test-method status="PASS" signature="openFacebookApp()[pri:0, instance:TestNG.example2_TestNg_TestClass@467aecef]" name="openFacebookApp" duration-ms="13471" started-at="2022-06-22T00:13:52 IST" finished-at="2022-06-22T00:14:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openFacebookApp -->
+      </class> <!-- TestNG.example2_TestNg_TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
